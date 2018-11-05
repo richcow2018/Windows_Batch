@@ -1,0 +1,1 @@
+dxdiag /t %USERPROFILE%\Desktop\%username%-PC-Spec.txt
